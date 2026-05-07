@@ -1,0 +1,362 @@
+[
+  {
+    "id": "astro-01",
+    "category": "Astronomie",
+    "difficulty": "ușor",
+    "question": "Ce planetă este cunoscută drept Planeta Roșie?",
+    "options": ["Venus", "Marte", "Jupiter", "Mercur"],
+    "answer": "Marte"
+  },
+  {
+    "id": "astro-02",
+    "category": "Astronomie",
+    "difficulty": "ușor",
+    "question": "Care este steaua aflată în centrul Sistemului Solar?",
+    "options": ["Sirius", "Soarele", "Polaris", "Vega"],
+    "answer": "Soarele"
+  },
+  {
+    "id": "astro-03",
+    "category": "Astronomie",
+    "difficulty": "ușor",
+    "question": "Cum se numește satelitul natural al Pământului?",
+    "options": ["Luna", "Titan", "Europa", "Phobos"],
+    "answer": "Luna"
+  },
+  {
+    "id": "astro-04",
+    "category": "Astronomie",
+    "difficulty": "ușor",
+    "question": "Care este cea mai mare planetă din Sistemul Solar?",
+    "options": ["Saturn", "Neptun", "Jupiter", "Uranus"],
+    "answer": "Jupiter"
+  },
+  {
+    "id": "astro-05",
+    "category": "Astronomie",
+    "difficulty": "mediu",
+    "question": "Ce fenomen are loc când Luna trece între Pământ și Soare?",
+    "options": ["Eclipsă solară", "Eclipsă lunară", "Solstițiu", "Conjuncție inferioară"],
+    "answer": "Eclipsă solară"
+  },
+  {
+    "id": "astro-06",
+    "category": "Astronomie",
+    "difficulty": "mediu",
+    "question": "Ce planetă are cel mai evident sistem de inele observabil de pe Pământ?",
+    "options": ["Marte", "Saturn", "Venus", "Mercur"],
+    "answer": "Saturn"
+  },
+  {
+    "id": "astro-07",
+    "category": "Astronomie",
+    "difficulty": "mediu",
+    "question": "Ce instrument este folosit pentru observarea obiectelor îndepărtate din spațiu?",
+    "options": ["Microscop", "Telescop", "Barometru", "Spectrometru de masă"],
+    "answer": "Telescop"
+  },
+  {
+    "id": "astro-08",
+    "category": "Astronomie",
+    "difficulty": "mediu",
+    "question": "Ce este o cometă?",
+    "options": ["O stea tânără", "Un corp de gheață, praf și rocă", "O planetă pitică metalică", "Un satelit artificial"],
+    "answer": "Un corp de gheață, praf și rocă"
+  },
+  {
+    "id": "astro-09",
+    "category": "Astronomie",
+    "difficulty": "mediu",
+    "question": "Care planetă este cea mai apropiată de Soare?",
+    "options": ["Venus", "Mercur", "Pământ", "Marte"],
+    "answer": "Mercur"
+  },
+  {
+    "id": "astro-10",
+    "category": "Astronomie",
+    "difficulty": "avansat",
+    "question": "Cum se numește granița teoretică din jurul unei găuri negre dincolo de care lumina nu mai poate scăpa?",
+    "options": ["Orizontul evenimentelor", "Centura Kuiper", "Norul Oort", "Fotosfera"],
+    "answer": "Orizontul evenimentelor"
+  },
+  {
+    "id": "astro-11",
+    "category": "Astronomie",
+    "difficulty": "avansat",
+    "question": "Ce unitate se folosește frecvent pentru distanțe foarte mari în astronomie?",
+    "options": ["Newton", "An-lumină", "Pascal", "Joule"],
+    "answer": "An-lumină"
+  },
+  {
+    "id": "astro-12",
+    "category": "Astronomie",
+    "difficulty": "avansat",
+    "question": "Ce galaxie conține Sistemul Solar?",
+    "options": ["Andromeda", "Calea Lactee", "Triangulum", "Norul Mare al lui Magellan"],
+    "answer": "Calea Lactee"
+  },
+  {
+    "id": "astro-13",
+    "category": "Astronomie",
+    "difficulty": "avansat",
+    "question": "Ce tip de stea extrem de densă poate rămâne după explozia unei supernove?",
+    "options": ["Stea neutronică", "Gigantă roșie", "Pitică brună", "Protostea"],
+    "answer": "Stea neutronică"
+  },
+  {
+    "id": "astro-14",
+    "category": "Astronomie",
+    "difficulty": "avansat",
+    "question": "Ce descrie legea lui Hubble?",
+    "options": ["Expansiunea Universului", "Formarea craterelor lunare", "Mișcarea mareelor", "Compoziția inelelor lui Saturn"],
+    "answer": "Expansiunea Universului"
+  },
+  {
+    "id": "astro-15",
+    "category": "Astronomie",
+    "difficulty": "avansat",
+    "question": "Care este numele telescopului spațial lansat în 2021 ca succesor științific al lui Hubble?",
+    "options": ["Kepler", "James Webb", "Chandra", "Spitzer"],
+    "answer": "James Webb"
+  },
+  {
+    "id": "tech-01",
+    "category": "Tehnologie",
+    "difficulty": "ușor",
+    "question": "Ce înseamnă abrevierea CPU?",
+    "options": ["Central Processing Unit", "Computer Personal Utility", "Core Program Update", "Central Power Unit"],
+    "answer": "Central Processing Unit"
+  },
+  {
+    "id": "tech-02",
+    "category": "Tehnologie",
+    "difficulty": "ușor",
+    "question": "Ce componentă stochează datele permanent într-un calculator?",
+    "options": ["RAM", "SSD", "Cache L1", "Registru"],
+    "answer": "SSD"
+  },
+  {
+    "id": "tech-03",
+    "category": "Tehnologie",
+    "difficulty": "ușor",
+    "question": "Ce limbaj este folosit în principal pentru structura paginilor web?",
+    "options": ["HTML", "SQL", "Python", "C"],
+    "answer": "HTML"
+  },
+  {
+    "id": "tech-04",
+    "category": "Tehnologie",
+    "difficulty": "ușor",
+    "question": "Ce protocol este folosit în mod obișnuit pentru pagini web securizate?",
+    "options": ["FTP", "SMTP", "HTTPS", "SSH"],
+    "answer": "HTTPS"
+  },
+  {
+    "id": "tech-05",
+    "category": "Tehnologie",
+    "difficulty": "mediu",
+    "question": "Ce rol are memoria RAM?",
+    "options": ["Rulează date temporare accesate rapid", "Răcește procesorul", "Criptează conexiunea Wi-Fi", "Înlocuiește placa video"],
+    "answer": "Rulează date temporare accesate rapid"
+  },
+  {
+    "id": "tech-06",
+    "category": "Tehnologie",
+    "difficulty": "mediu",
+    "question": "Ce este un API?",
+    "options": ["O interfață prin care aplicațiile comunică", "Un tip de monitor", "O extensie de fișier audio", "Un cablu de alimentare"],
+    "answer": "O interfață prin care aplicațiile comunică"
+  },
+  {
+    "id": "tech-07",
+    "category": "Tehnologie",
+    "difficulty": "mediu",
+    "question": "Ce sistem de control al versiunilor este folosit frecvent în dezvoltarea software?",
+    "options": ["Git", "Excel", "BIOS", "HTTP"],
+    "answer": "Git"
+  },
+  {
+    "id": "tech-08",
+    "category": "Tehnologie",
+    "difficulty": "mediu",
+    "question": "Ce înseamnă autentificarea cu doi factori?",
+    "options": ["Două parole identice", "Două metode diferite de confirmare a identității", "Două conturi pe același site", "Două copii ale aceleiași aplicații"],
+    "answer": "Două metode diferite de confirmare a identității"
+  },
+  {
+    "id": "tech-09",
+    "category": "Tehnologie",
+    "difficulty": "mediu",
+    "question": "Ce este cloud computing?",
+    "options": ["Folosirea resurselor IT livrate prin internet", "Un sistem de răcire cu aer", "Un limbaj de stilizare", "O metodă de imprimare 3D"],
+    "answer": "Folosirea resurselor IT livrate prin internet"
+  },
+  {
+    "id": "tech-10",
+    "category": "Tehnologie",
+    "difficulty": "avansat",
+    "question": "Ce structură de date funcționează după principiul FIFO?",
+    "options": ["Stivă", "Coadă", "Arbore binar", "Graf ponderat"],
+    "answer": "Coadă"
+  },
+  {
+    "id": "tech-11",
+    "category": "Tehnologie",
+    "difficulty": "avansat",
+    "question": "Ce înseamnă complexitatea O(log n)?",
+    "options": ["Timp constant", "Creștere logaritmică", "Creștere factorială", "Creștere pătratică"],
+    "answer": "Creștere logaritmică"
+  },
+  {
+    "id": "tech-12",
+    "category": "Tehnologie",
+    "difficulty": "avansat",
+    "question": "Ce tehnică împarte o problemă în subprobleme mai mici de același tip?",
+    "options": ["Recursivitate", "Minificare", "Compresie fără pierderi", "Normalizare audio"],
+    "answer": "Recursivitate"
+  },
+  {
+    "id": "tech-13",
+    "category": "Tehnologie",
+    "difficulty": "avansat",
+    "question": "Ce atac încearcă să introducă comenzi într-o interogare de bază de date?",
+    "options": ["SQL injection", "Phishing vocal", "DDoS reflexiv", "Spoofing GPS"],
+    "answer": "SQL injection"
+  },
+  {
+    "id": "tech-14",
+    "category": "Tehnologie",
+    "difficulty": "avansat",
+    "question": "Ce model de rețea neuronală este utilizat frecvent pentru date secvențiale și text?",
+    "options": ["Transformer", "Tabel hash", "Rasterizer", "Scheduler round-robin"],
+    "answer": "Transformer"
+  },
+  {
+    "id": "tech-15",
+    "category": "Tehnologie",
+    "difficulty": "avansat",
+    "question": "Ce proprietate criptografică face dificilă obținerea mesajului original dintr-un hash?",
+    "options": ["Rezistența la preimagine", "Compilarea incrementală", "Interpolarea liniară", "Partiționarea discului"],
+    "answer": "Rezistența la preimagine"
+  },
+  {
+    "id": "bio-01",
+    "category": "Biologie",
+    "difficulty": "ușor",
+    "question": "Care organ pompează sângele în corpul uman?",
+    "options": ["Ficatul", "Inima", "Plămânul", "Stomacul"],
+    "answer": "Inima"
+  },
+  {
+    "id": "bio-02",
+    "category": "Biologie",
+    "difficulty": "ușor",
+    "question": "Ce gaz este necesar majorității animalelor pentru respirație?",
+    "options": ["Oxigen", "Azot", "Heliu", "Dioxid de sulf"],
+    "answer": "Oxigen"
+  },
+  {
+    "id": "bio-03",
+    "category": "Biologie",
+    "difficulty": "ușor",
+    "question": "Ce parte a plantei absoarbe apa din sol?",
+    "options": ["Floarea", "Rădăcina", "Fructul", "Semințele"],
+    "answer": "Rădăcina"
+  },
+  {
+    "id": "bio-04",
+    "category": "Biologie",
+    "difficulty": "ușor",
+    "question": "Care este unitatea de bază a organismelor vii?",
+    "options": ["Atomul", "Celula", "Țesutul", "Organul"],
+    "answer": "Celula"
+  },
+  {
+    "id": "bio-05",
+    "category": "Biologie",
+    "difficulty": "mediu",
+    "question": "Ce pigment dă culoarea verde plantelor și ajută fotosinteza?",
+    "options": ["Melanină", "Clorofilă", "Hemoglobină", "Keratină"],
+    "answer": "Clorofilă"
+  },
+  {
+    "id": "bio-06",
+    "category": "Biologie",
+    "difficulty": "mediu",
+    "question": "Unde se află materialul genetic în celulele eucariote?",
+    "options": ["În nucleu", "În peretele celular", "În vacuola digestivă", "În membrana externă"],
+    "answer": "În nucleu"
+  },
+  {
+    "id": "bio-07",
+    "category": "Biologie",
+    "difficulty": "mediu",
+    "question": "Ce moleculă transportă informația genetică?",
+    "options": ["ADN", "Glucoză", "Colagen", "Clorofilă"],
+    "answer": "ADN"
+  },
+  {
+    "id": "bio-08",
+    "category": "Biologie",
+    "difficulty": "mediu",
+    "question": "Ce sistem al corpului include creierul și măduva spinării?",
+    "options": ["Sistem nervos", "Sistem digestiv", "Sistem endocrin", "Sistem osos"],
+    "answer": "Sistem nervos"
+  },
+  {
+    "id": "bio-09",
+    "category": "Biologie",
+    "difficulty": "mediu",
+    "question": "Cum se numește procesul prin care plantele produc glucoză folosind lumină?",
+    "options": ["Fermentație", "Fotosinteză", "Respirație celulară", "Osmoreglare"],
+    "answer": "Fotosinteză"
+  },
+  {
+    "id": "bio-10",
+    "category": "Biologie",
+    "difficulty": "avansat",
+    "question": "Ce organit celular produce cea mai mare parte a ATP-ului în celulele eucariote?",
+    "options": ["Mitocondria", "Ribozomul", "Lizozomul", "Aparatul Golgi"],
+    "answer": "Mitocondria"
+  },
+  {
+    "id": "bio-11",
+    "category": "Biologie",
+    "difficulty": "avansat",
+    "question": "Ce proces creează gameți cu jumătate din numărul de cromozomi?",
+    "options": ["Mitoză", "Meioză", "Transcripție", "Difuzie simplă"],
+    "answer": "Meioză"
+  },
+  {
+    "id": "bio-12",
+    "category": "Biologie",
+    "difficulty": "avansat",
+    "question": "Ce tip de legătură unește aminoacizii într-o proteină?",
+    "options": ["Legătură peptidică", "Legătură ionică simplă", "Legătură metalică", "Legătură fosfodiesterică"],
+    "answer": "Legătură peptidică"
+  },
+  {
+    "id": "bio-13",
+    "category": "Biologie",
+    "difficulty": "avansat",
+    "question": "Ce enzimă copiază ADN-ul în timpul replicării?",
+    "options": ["ADN polimerază", "Amilază", "Pepsină", "Lipază"],
+    "answer": "ADN polimerază"
+  },
+  {
+    "id": "bio-14",
+    "category": "Biologie",
+    "difficulty": "avansat",
+    "question": "Ce descrie selecția naturală?",
+    "options": ["Supraviețuirea și reproducerea diferențiată a organismelor adaptate", "Schimbarea anotimpurilor", "Transformarea apei în vapori", "Formarea mineralelor"],
+    "answer": "Supraviețuirea și reproducerea diferențiată a organismelor adaptate"
+  },
+  {
+    "id": "bio-15",
+    "category": "Biologie",
+    "difficulty": "avansat",
+    "question": "Ce componentă a sângelui transportă oxigenul prin hemoglobină?",
+    "options": ["Eritrocitele", "Trombocitele", "Leucocitele", "Plasma fără proteine"],
+    "answer": "Eritrocitele"
+  }
+]
